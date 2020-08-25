@@ -9,12 +9,18 @@ td {padding:0.25em 0.5em;width:10em;}
 .left::after {content:":"}
 .right {text-align:left;}
 </style><script>
+'use strict';
 var req = new XMLHttpRequest();
-var quotes;
-req.onreadystatechange = function(){if (req.readyState == XMLHttpRequest.DONE) quotes = req.responseText;}
+req.onreadystatechange = function(){
+  if(req.readyState === XMLHttpRequest.DONE){
+    var quotes = JSON.parse(req.responseText);
+    var quote = quotes.quotes[Math.floor(Math.random() * Math.ceil(quotes.quotes.length))];
+    document.getElementById("quote").innerHTML = quote.t + "<footer>" + quote.a + ", <cite>" + quote.s + "</cite></footer>";
+  }
 req.open("GET", "quotes.json", true);
 req.send();
-</script></head><body><img src="https://avatars3.githubusercontent.com/u/56585957?s=460&v=4" alt="avatar of jktoiuhito" width="200" height="200"><h1>jktoiuhito</h1><table>
+};
+</script></head><body><img src="https://avatars3.githubusercontent.com/u/56585957?s=460&v=4" alt="avatar of jktoiuhito" width="200" height="200"><h1>jktoiuhito</h1><blockquote id="quote"></blockquote><table>
 <tr>
 	<td class="left">Docker</td>
 	<td class="right"><a href="https://hub.docker.com/u/jktoiuhito">jktoiuhito</a></td>
