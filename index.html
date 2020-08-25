@@ -8,7 +8,13 @@ td {padding:0.25em 0.5em;width:10em;}
 .left {text-align:right;}
 .left::after {content:":"}
 .right {text-align:left;}
-</style></head><body><img src="https://avatars3.githubusercontent.com/u/56585957?s=460&v=4" alt="avatar of jktoiuhito" width="200" height="200"><h1>jktoiuhito</h1><table>
+</style><script>
+var req = new XMLHttpRequest();
+var quotes;
+req.onreadystatechange = function(){if (req.readyState == XMLHttpRequest.DONE) quotes = req.responseText;}
+req.open("GET", "quotes.json", true);
+req.send();
+</script></head><body><img src="https://avatars3.githubusercontent.com/u/56585957?s=460&v=4" alt="avatar of jktoiuhito" width="200" height="200"><h1>jktoiuhito</h1><table>
 <tr>
 	<td class="left">Docker</td>
 	<td class="right"><a href="https://hub.docker.com/u/jktoiuhito">jktoiuhito</a></td>
