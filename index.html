@@ -17,9 +17,9 @@ req.onreadystatechange = function(){
     var quote = quotes.quotes[Math.floor(Math.random() * Math.ceil(quotes.quotes.length))];
     document.getElementById("quote").innerHTML = quote.t + "<footer>" + quote.a + ", <cite>" + quote.s + "</cite></footer>";
   }
+};
 req.open("GET", "quotes.json", true);
 req.send();
-};
 </script></head><body><img src="https://avatars3.githubusercontent.com/u/56585957?s=460&v=4" alt="avatar of jktoiuhito" width="200" height="200"><h1>jktoiuhito</h1><blockquote id="quote"></blockquote><table>
 <tr>
 	<td class="left">Docker</td>
