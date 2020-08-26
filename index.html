@@ -16,7 +16,7 @@ req.onreadystatechange = function(){
   if(req.readyState === XMLHttpRequest.DONE){
     var quotes = JSON.parse(req.responseText);
     var quote = quotes.quotes[Math.floor(Math.random() * Math.ceil(quotes.quotes.length))];
-    document.getElementById("quote").innerHTML = quote.t + "<footer>" + quote.a + ", <cite>" + quote.s + "</cite></footer>";
+    document.getElementById("quote").innerHTML = quote.t + "<footer>" + (quote.a === null ? "" : quote.a + ", ") + "<cite>" + quote.s + "</cite></footer>";
   }
 };
 req.open("GET", "quotes.json", true);
