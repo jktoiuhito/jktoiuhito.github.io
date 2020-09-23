@@ -5,71 +5,8 @@
     <meta name="robots" content="noindex" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>jktoiuhito</title>
-    <style>
-      html {
-        min-width: 100%;
-        min-height: 100%;
-      }
-      body {
-        background: linear-gradient(70deg, white, mistyrose);
-        text-align: center;
-        font-size: 2em;
-        font-family: sans-serif;
-      }
-      img {
-        border: 1px solid black;
-        margin-top: 2em;
-      }
-      blockquote {
-        font-size: 0.85em;
-        color: gray;
-        white-space: pre-line;
-      }
-      footer {
-        padding-top: 0.5em;
-        font-size: 0.75em;
-        color: darkgray;
-      }
-      table {
-        margin: 1em auto;
-        font-size: 0.75em;
-      }
-      td {
-        padding: 0.25em 0.5em;
-        width: 10em;
-      }
-      .left {
-        text-align: right;
-      }
-      .left::after {
-        content: ":";
-      }
-      .right {
-        text-align: left;
-      }
-    </style>
-    <script>
-      "use strict";
-      const req = new XMLHttpRequest();
-      req.onreadystatechange = () => {
-        if (req.readyState === XMLHttpRequest.DONE) {
-          const quotes = JSON.parse(req.responseText);
-          const quote =
-            quotes[Math.floor(Math.random() * Math.ceil(quotes.length))];
-          const blockquote = document.getElementById("quote");
-          const footer = document.createElement("footer");
-          const cite = document.createElement("cite");
-          blockquote.append(document.createTextNode(quote.quote), footer);
-          footer.append(
-            document.createTextNode(quote.author ? quote.author + ", " : ""),
-            cite
-          );
-          cite.append(document.createTextNode(quote.source));
-        }
-      };
-      req.open("GET", "quotes.json", true);
-      req.send();
-    </script>
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="index.css" />
   </head>
   <body>
     <img
