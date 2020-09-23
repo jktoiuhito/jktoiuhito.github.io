@@ -1,29 +1,127 @@
-{
-  "quotes":
-  [
-    {"t":"Kuolemassa on parempi, taivaassa on parempi olla kuin täällä ihmispetojen keskellä. Täytyy itkeä. Niin, siellä on parempi kuin täällä. Oojah! Paljon parempi.","a":"Aleksis Kivi","s":"Seitsemän veljestä (1870)"},
-    {"t":"»Yksin ei ole miehen hyvä olla».","a":"Aleksis Kivi","s":"Seitsemän veljestä (1870)"},
-    {"t":"»Työhön kaikin voimin; sillä tämä elämä maksaa tämän vaivan, ja ihmiskunta, näemme, ei olekkaan tuota pahempi vekkuli; ei, vaan onpa, luulen minä, maailma meille niin kuin maailmalle me; ja hän, joka »alati vääryyttä kärsii», hän katsokoon kuinka on laita omassa povessansa.».","a":"Aleksis Kivi","s":"Seitsemän veljestä (1870)"},
-    {"t":"Mitä voimme saattaa matkaan tyhjästä?","a":"Aleksis Kivi","s":"Seitsemän veljestä (1870)"},
-    {"t":"Raskas oli heidän taakkansa, mutta hauska.","a":"Aleksis Kivi","s":"Seitsemän veljestä (1870)"},
-    {"t":"Ahkeruus on onnen lähde","a":"Aleksis Kivi","s":"Seitsemän veljestä (1870)"},
-    {"t":"Ei ole yhtäkään hätää niin kauan kuin työtä ja tointa piisaa maailmassa, vaikka täytyykin kulkea ja jamata talosta taloon ja kylästä kylään työtä ja leipää hakemassa.","a":"Aleksis Kivi","s":"Seitsemän veljestä (1870)"},
-    {"t":"誰も自信が無いのかしら。","a":"太宰 治","s":"女生徒 (1939)"},
-    {"t":"ぽこんと花を眺めながら、人間も、本当によいところがある、と思った。花の美しさを見つけたのは、人間だし、花を愛するのも人間だもの。","a":"太宰治","s":"女生徒 (1939)"},
-    {"t":"未完の美は美ではない。","a":"坂口 安吾","s":"堕落論 (1946)"},
-    {"t":"Arvelee, ajattelevi\nmiten olla, kuin eleä\npimeässä piilossansa,\nasunnossa ahtahassa\nkuss' ei konsa kuuta nähnyt\neikä päiveä havainnut.","a":null,"s":"Kalevala (1849)"},
-    {"t":"Ei neittä väellä vieä,\nvastoin mieltä miehelähän.\nSille neiti antaminen,\nkelle mielensä tekevi.","a":null,"s":"Kalevala (1849)"},
-    {"t":"傑作も駄作もありやしません。人がいいと言えば、よくなるし、悪いと言えば、悪くなるんです。","a":"太宰 治","s":"ヴィヨンの妻 (1947)"},
-    {"t":"私たちは、生きていさえすればいいのよ","a":"太宰 治","s":"ヴィヨンの妻 (1947)"},
-    {"t":"運命にまかせるよりほかに仕方がないわ。神様なんてこの世にないんですから。","a":"夢野 久作","s":"少女地獄 (1936)"},
-    {"t":"私達、これから本当に生きられるだけ生きましょうね……","a":"堀　辰雄","s":"風立ちぬ (1938)"},
-    {"t":"風立ちぬ、いざ生きめやも","a":"堀　辰雄","s":"風立ちぬ (1938)"},
-    {"t":"Hän kaipasi ihmis-seuraa, mutta ei tohtinut mennä ulos huoneestaan.","a":"L. Onerva","s":"Inari (1913)"},
-    {"t":"Oliko nainen siis heikompi, huonompi, vähemmän älykäs kuin mies? Ei. Erilainen ainoastaan…","a":"L. Onerva","s":"Inari (1913)"},
-    {"t":"それに人の成功が、どれ丈生れついて、どれ丈人のお陰で出來たかといふことは、どんなえらい學者でも極めることは出來ないのだ。","a":"森 鴎外","s":"半日 (1909)"},
-    {"t":"心と腕とが財産なのだ。","a":"森 鴎外","s":"半日 (1909)"},
-    {"t":"\"Ainahan nuoret ovat olevinaan viisaat\"","a":"Johan Ludvig Runeberg","s":"Suorasanaisia runoelmia (1884)"},
-    {"t":"Jääkärit neuvottelivat, mutta mitä neuvoteltiin, eivät he itse voineet eikä kukaan muukaan pitkään aikaan käsittää.","a":"Johan Ludvig Runeberg","s":"Suorasanaisia runoelmia (1884)"},
-    {"t":"Ihminen on luonteeltaan sosiaalinen eläin, mutta evoluution näkökulmasta vain rajatuissa metsästäjä-keräilijä-heimoissa. Urbaani, ahdas ja monilukuinen yhteiskunta ajaa ihmisen nurkkaan.","a":"Tatu Vornanen","s":"Jylkkäri (2020)"}
-  ]
-}
+[
+  {
+    "quote": "Kuolemassa on parempi, taivaassa on parempi olla kuin täällä ihmispetojen keskellä. Täytyy itkeä. Niin, siellä on parempi kuin täällä. Oojah! Paljon parempi.",
+    "author": "Aleksis Kivi",
+    "source": "Seitsemän veljestä (1870)"
+  },
+  {
+    "quote": "»Yksin ei ole miehen hyvä olla».",
+    "author": "Aleksis Kivi",
+    "source": "Seitsemän veljestä (1870)"
+  },
+  {
+    "quote": "»Työhön kaikin voimin; sillä tämä elämä maksaa tämän vaivan, ja ihmiskunta, näemme, ei olekkaan tuota pahempi vekkuli; ei, vaan onpa, luulen minä, maailma meille niin kuin maailmalle me; ja hän, joka »alati vääryyttä kärsii», hän katsokoon kuinka on laita omassa povessansa.».",
+    "author": "Aleksis Kivi",
+    "source": "Seitsemän veljestä (1870)"
+  },
+  {
+    "quote": "Mitä voimme saattaa matkaan tyhjästä?",
+    "author": "Aleksis Kivi",
+    "source": "Seitsemän veljestä (1870)"
+  },
+  {
+    "quote": "Raskas oli heidän taakkansa, mutta hauska.",
+    "author": "Aleksis Kivi",
+    "source": "Seitsemän veljestä (1870)"
+  },
+  {
+    "quote": "Ahkeruus on onnen lähde",
+    "author": "Aleksis Kivi",
+    "source": "Seitsemän veljestä (1870)"
+  },
+  {
+    "quote": "Ei ole yhtäkään hätää niin kauan kuin työtä ja tointa piisaa maailmassa, vaikka täytyykin kulkea ja jamata talosta taloon ja kylästä kylään työtä ja leipää hakemassa.",
+    "author": "Aleksis Kivi",
+    "source": "Seitsemän veljestä (1870)"
+  },
+  {
+    "quote": "誰も自信が無いのかしら。",
+    "author": "太宰 治",
+    "source": "女生徒 (1939)"
+  },
+  {
+    "quote": "ぽこんと花を眺めながら、人間も、本当によいところがある、と思った。花の美しさを見つけたのは、人間だし、花を愛するのも人間だもの。",
+    "author": "太宰治",
+    "source": "女生徒 (1939)"
+  },
+  {
+    "quote": "未完の美は美ではない。",
+    "author": "坂口 安吾",
+    "source": "堕落論 (1946)"
+  },
+  {
+    "quote": "Arvelee, ajattelevi\nmiten olla, kuin eleä\npimeässä piilossansa,\nasunnossa ahtahassa\nkuss' ei konsa kuuta nähnyt\neikä päiveä havainnut.",
+    "author": null,
+    "source": "Kalevala (1849)"
+  },
+  {
+    "quote": "Ei neittä väellä vieä,\nvastoin mieltä miehelähän.\nSille neiti antaminen,\nkelle mielensä tekevi.",
+    "author": null,
+    "source": "Kalevala (1849)"
+  },
+  {
+    "quote": "傑作も駄作もありやしません。人がいいと言えば、よくなるし、悪いと言えば、悪くなるんです。",
+    "author": "太宰 治",
+    "source": "ヴィヨンの妻 (1947)"
+  },
+  {
+    "quote": "私たちは、生きていさえすればいいのよ",
+    "author": "太宰 治",
+    "source": "ヴィヨンの妻 (1947)"
+  },
+  {
+    "quote": "運命にまかせるよりほかに仕方がないわ。神様なんてこの世にないんですから。",
+    "author": "夢野 久作",
+    "source": "少女地獄 (1936)"
+  },
+  {
+    "quote": "私達、これから本当に生きられるだけ生きましょうね……",
+    "author": "堀　辰雄",
+    "source": "風立ちぬ (1938)"
+  },
+  {
+    "quote": "風立ちぬ、いざ生きめやも",
+    "author": "堀　辰雄",
+    "source": "風立ちぬ (1938)"
+  },
+  {
+    "quote": "Hän kaipasi ihmis-seuraa, mutta ei tohtinut mennä ulos huoneestaan.",
+    "author": "L. Onerva",
+    "source": "Inari (1913)"
+  },
+  {
+    "quote": "Oliko nainen siis heikompi, huonompi, vähemmän älykäs kuin mies? Ei. Erilainen ainoastaan…",
+    "author": "L. Onerva",
+    "source": "Inari (1913)"
+  },
+  {
+    "quote": "それに人の成功が、どれ丈生れついて、どれ丈人のお陰で出來たかといふことは、どんなえらい學者でも極めることは出來ないのだ。",
+    "author": "森 鴎外",
+    "source": "半日 (1909)"
+  },
+  {
+    "quote": "心と腕とが財産なのだ。",
+    "author": "森 鴎外",
+    "source": "半日 (1909)"
+  },
+  {
+    "quote": "\"Ainahan nuoret ovat olevinaan viisaat\"",
+    "author": "Johan Ludvig Runeberg",
+    "source": "Suorasanaisia runoelmia (1884)"
+  },
+  {
+    "quote": "Jääkärit neuvottelivat, mutta mitä neuvoteltiin, eivät he itse voineet eikä kukaan muukaan pitkään aikaan käsittää.",
+    "author": "Johan Ludvig Runeberg",
+    "source": "Suorasanaisia runoelmia (1884)"
+  },
+  {
+    "quote": "Ihminen on luonteeltaan sosiaalinen eläin, mutta evoluution näkökulmasta vain rajatuissa metsästäjä-keräilijä-heimoissa. Urbaani, ahdas ja monilukuinen yhteiskunta ajaa ihmisen nurkkaan.",
+    "author": "Tatu Vornanen",
+    "source": "Jylkkäri (2020)"
+  },
+  {
+    "quote": "Me luomme itsemme sillä, mitä teemme. Puhe on halpaa ja ajattelu ilmaista, mutta teot painavat.",
+    "author": "Joonas Konstig",
+    "source": "Yle Uutiset (2020)"
+  }
+]
