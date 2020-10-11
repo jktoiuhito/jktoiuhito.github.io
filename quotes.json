@@ -41,8 +41,18 @@
   },
   {
     "quote": "ぽこんと花を眺めながら、人間も、本当によいところがある、と思った。花の美しさを見つけたのは、人間だし、花を愛するのも人間だもの。",
-    "author": "太宰治",
+    "author": "太宰 治",
     "source": "女生徒 (1939)"
+  },
+  {
+    "quote": "傑作も駄作もありやしません。人がいいと言えば、よくなるし、悪いと言えば、悪くなるんです。",
+    "author": "太宰 治",
+    "source": "ヴィヨンの妻 (1947)"
+  },
+  {
+    "quote": "私たちは、生きていさえすればいいのよ",
+    "author": "太宰 治",
+    "source": "ヴィヨンの妻 (1947)"
   },
   {
     "quote": "未完の美は美ではない。",
@@ -58,16 +68,6 @@
     "quote": "Ei neittä väellä vieä,\nvastoin mieltä miehelähän.\nSille neiti antaminen,\nkelle mielensä tekevi.",
     "author": null,
     "source": "Kalevala (1849)"
-  },
-  {
-    "quote": "傑作も駄作もありやしません。人がいいと言えば、よくなるし、悪いと言えば、悪くなるんです。",
-    "author": "太宰 治",
-    "source": "ヴィヨンの妻 (1947)"
-  },
-  {
-    "quote": "私たちは、生きていさえすればいいのよ",
-    "author": "太宰 治",
-    "source": "ヴィヨンの妻 (1947)"
   },
   {
     "quote": "運命にまかせるよりほかに仕方がないわ。神様なんてこの世にないんですから。",
@@ -100,11 +100,6 @@
     "source": "半日 (1909)"
   },
   {
-    "quote": "心と腕とが財産なのだ。",
-    "author": "森 鴎外",
-    "source": "半日 (1909)"
-  },
-  {
     "quote": "\"Ainahan nuoret ovat olevinaan viisaat\"",
     "author": "Johan Ludvig Runeberg",
     "source": "Suorasanaisia runoelmia (1884)"
@@ -122,6 +117,11 @@
   {
     "quote": "Me luomme itsemme sillä, mitä teemme. Puhe on halpaa ja ajattelu ilmaista, mutta teot painavat.",
     "author": "Joonas Konstig",
+    "source": "Yle Uutiset (2020)"
+  },
+  {
+    "quote": "Jos et ole itse kokenut epätasa-arvoa, niin se ei tarkoita, etteivätkö muut olisi ja etteikö se olisi todellinen ongelma.",
+    "author": "Eveliina 'Evelina' Tammenlaakso",
     "source": "Yle Uutiset (2020)"
   }
 ]
