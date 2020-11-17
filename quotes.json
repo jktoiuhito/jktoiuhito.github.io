@@ -30,17 +30,17 @@
     "source": "Seitsemän veljestä (1870)"
   },
   {
+    "quote": "Älä helsingissä!",
+    "author": "Aleksis Kivi",
+    "source": "Seitsemän veljestä (1870)"
+  },
+  {
     "quote": "Ei ole yhtäkään hätää niin kauan kuin työtä ja tointa piisaa maailmassa, vaikka täytyykin kulkea ja jamata talosta taloon ja kylästä kylään työtä ja leipää hakemassa.",
     "author": "Aleksis Kivi",
     "source": "Seitsemän veljestä (1870)"
   },
   {
     "quote": "誰も自信が無いのかしら。",
-    "author": "太宰 治",
-    "source": "女生徒 (1939)"
-  },
-  {
-    "quote": "ぽこんと花を眺めながら、人間も、本当によいところがある、と思った。花の美しさを見つけたのは、人間だし、花を愛するのも人間だもの。",
     "author": "太宰 治",
     "source": "女生徒 (1939)"
   },
@@ -80,11 +80,6 @@
     "source": "風立ちぬ (1938)"
   },
   {
-    "quote": "風立ちぬ、いざ生きめやも",
-    "author": "堀　辰雄",
-    "source": "風立ちぬ (1938)"
-  },
-  {
     "quote": "Hän kaipasi ihmis-seuraa, mutta ei tohtinut mennä ulos huoneestaan.",
     "author": "L. Onerva",
     "source": "Inari (1913)"
@@ -95,9 +90,9 @@
     "source": "Inari (1913)"
   },
   {
-    "quote": "人の成功が、どれ丈生れついて、どれ丈人のお陰で出來たかといふことは、どんなえらい學者でも極めることは出來ないのだ。",
-    "author": "森 鴎外",
-    "source": "半日 (1909)"
+    "quote": "Kenties oli sittenkin niin, että rakkaus oli ikuinen vain sillä ehdolla, että esinettä silloin tällöin muutettiin.",
+    "author": "L. Onerva",
+    "source": "Inari (1913)"
   },
   {
     "quote": "\"Ainahan nuoret ovat olevinaan viisaat\"",
@@ -123,5 +118,25 @@
     "quote": "Jos et ole itse kokenut epätasa-arvoa, niin se ei tarkoita, etteivätkö muut olisi ja etteikö se olisi todellinen ongelma.",
     "author": "Eveliina 'Evelina' Tammenlaakso",
     "source": "Yle Uutiset (2020)"
+  },
+  {
+    "quote": "Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement. For even the very wise cannot see all ends.",
+    "author": "J.R.R. Tolkien",
+    "source": "Fellowship of the Ring (1954)"
+  },
+  {
+    "quote": "Orthodoxy means not thinking - not needing to think.",
+    "author": "George Orwell",
+    "source": "1984 (1949)"
+  },
+  {
+    "quote": "Why should one feel it to be intolerable unless one had some kind of ancestral memory that things had once been different?",
+    "author": "George Orwell",
+    "source": "1984 (1949)"
+  },
+  {
+    "quote": "If there was hope, it must lie in the proles, because only there, in those swarming disregarded masses, eigthy-five per cent of the population of Oceania, could the force to destroy the Party ever be generated.",
+    "author": "George Orwell",
+    "source": "1984 (1949)"
   }
 ]
