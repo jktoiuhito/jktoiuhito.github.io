@@ -6,6 +6,7 @@ req.onreadystatechange = () => {
     const quote = quotes[Math.floor(Math.random() * Math.ceil(quotes.length))];
     const blockquote = document.getElementById("quote");
     const footer = document.createElement("footer");
+    footer.className = "blockquote-footer";
     const cite = document.createElement("cite");
     blockquote.append(document.createTextNode(quote.quote), footer);
     footer.append(
