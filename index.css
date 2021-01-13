@@ -9,7 +9,7 @@ body {
   height: 100%;
 }
 
-blockquote {
+#quote {
   white-space: pre-line;
 }
 
